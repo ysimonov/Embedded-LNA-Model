@@ -4,7 +4,10 @@ Before using this script, unarchive Directivity.rar in Data/Directivity/ foulder
 
 Usage:
 1. Specify theta, phi source pointing
-2. Specify how many degrees were used during the simulation, assuming equal spacing in phi and theta directions
+2. Specify how many degrees were used during the simulation for phi and theta directions
 3. Provide gridpoint number for creation of beamformer coefficients
 
-The model is limited due to homogeneous sky approximation, and may not reflect the real solution.
+The limitation of this model is the following:
+1. Homogeneous sky approximation
+2. Radiation efficiency is unknown (assumption is made)
+
