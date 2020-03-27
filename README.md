@@ -11,7 +11,7 @@ The limitations of this model:
 1. Homogeneous sky approximation
 2. Radiation efficiency is unknown (assumption is made)
 
-Reference:
+References:
 
 Balanis, C.A., 2016. Antenna theory: analysis and design. John wiley & sons.
 
