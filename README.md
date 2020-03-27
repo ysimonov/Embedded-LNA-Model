@@ -7,7 +7,7 @@ Usage:
 2. Specify how many degrees were used during the simulation for phi and theta directions
 3. Provide gridpoint number for creation of beamformer coefficients
 
-The limitation of this model is the following:
+The limitations of this model:
 1. Homogeneous sky approximation
 2. Radiation efficiency is unknown (assumption is made)
 
